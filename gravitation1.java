@@ -1,7 +1,7 @@
 import java.util.Scanner;
 public class gravitation1
 {
-	public static void main(String[] args)
+	public static void main(String[] args)5
 	{
 		double f,G,m1,m2,R;
 		Scanner sc=new Scanner(System.in);
